@@ -27,13 +27,6 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-### Windows (PowerShell)
-
-```powershell
-python -m venv venv
-venv\Scripts\Activate.ps1
-```
-
 > Your terminal prompt should now show `(venv)` indicating the virtual environment is active.
 
 
