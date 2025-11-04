@@ -1,4 +1,5 @@
 # project-3 ( Job portal )
+A feature-rich job portal emphasizing intelligent automation through custom algorithms for CV ranking, job recommendations, and advanced job search filtering. Integrated with resume parsing, skill gap analysis, jobs management, applications management and secure role-based dashboards for candidates, employers, and admins. Built using Django and Python to deliver a scalable, data-driven recruitment solution.
 
 # Project Setup and Run Instructions
 
