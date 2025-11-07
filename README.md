@@ -108,6 +108,9 @@ __pycache__/
 
 * some changes required in `settings.py`:
   ```
+  Secret_Key = Your secret key
+  EMAIL_HOST_USER = Your email id         
+  EMAIL_HOST_PASSWORD = Your email app password    
   ```
 * If `requirements.txt` is updated, run `pip install -r requirements.txt` again.
 * For any issues, check if the virtual environment is active and Python version matches the project requirements.
