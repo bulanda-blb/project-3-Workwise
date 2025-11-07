@@ -10,7 +10,7 @@ load_dotenv(BASE_DIR / '.env')
 
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
-SECRET_KEY = 'django-insecure-q*x9j(_)87h5-&3h=ttf-jnv(k&a3nzzeui*d!f_t72*$b))35'
+SECRET_KEY = 'YOUR SECRET KEY HERE'
 
 DEBUG = True
 
@@ -59,8 +59,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'workwise.wsgi.application'
 
 
-# Database
-# https://docs.djangoproject.com/en/5.2/ref/settings/#databases
+
 
 DATABASES = {
     'default': {
@@ -70,8 +69,6 @@ DATABASES = {
 }
 
 
-# Password validation
-# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
 
 AUTH_PASSWORD_VALIDATORS = [
     {
