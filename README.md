@@ -105,6 +105,10 @@ __pycache__/
 .env
 ```
 
+
+* some changes required in `settings.py`:
+  ```
+  ```
 * If `requirements.txt` is updated, run `pip install -r requirements.txt` again.
 * For any issues, check if the virtual environment is active and Python version matches the project requirements.
 
